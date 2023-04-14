@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSfRmJ/fV78FGDnxxe5OZTrtYue6Wez41b6cvsGZihcjOOH6aWJfSgLuEuL5oEGGpv0NxcvX51JnqYWHmxgkHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sargis.khachatryan\\source\\repos\\Proxy\\Assignment_2\\Assignment_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sargis.khachatryan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Sargis.khachatryan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Sargis.khachatryan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
